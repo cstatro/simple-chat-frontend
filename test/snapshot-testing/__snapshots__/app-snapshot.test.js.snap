@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App tree renders as expected 1`] = `<div />`;
+
+exports[`App tree renders as expected 2`] = `<div />`;
